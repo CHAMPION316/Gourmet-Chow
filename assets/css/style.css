@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;1,200;1,300;1,400&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+
+html,
+body {
+    height: 100%;
+    font-family: "Montserrat" sans-serif;
+}
+
+.page-header {
+    margin
+}
+
+.bg-image {
+    background-image: url(../images/pexels-chan-walrus-941861.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
