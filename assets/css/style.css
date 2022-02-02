@@ -98,10 +98,6 @@ footer {
     padding: 5% 5% 5% 5%;
 }
 
-.icon-padding {
-    padding-top: 20px;
-}
-
 .bi-facebook, .bi-instagram, .bi-twitter {
     color: #000000;
     font-size: 25px;
@@ -111,4 +107,33 @@ footer {
 .bi-facebook:hover, .bi-instagram:hover, .bi-twitter:hover {
     color: #fff;
     text-decoration: none;
+}
+
+/*--------------------------------------------Media Queries*/
+
+@media (max-width: 768px) {
+    .landing-text img {
+        height: 130px;
+        width: 140px;
+    }
+
+    .landing-text {
+        padding-top: 85px;
+    }
+
+    .landing-text h1, h3 {
+        padding: 0 4px;
+    }
+
+    .landing-text h3 {
+        margin-top: 40px;
+    }
+
+    .padding {
+        padding: 80px 0 30px;
+    }
+
+    .padding h2 {
+        margin-top: 25px;
+    }
 }
