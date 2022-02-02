@@ -6,11 +6,15 @@
     border:0;
 } */
 
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
 
 .navbar-brand {
     padding: 0;
 }
 
 .navbar-brand img {
-    height: 50px;
+    height: 60px;
 }
