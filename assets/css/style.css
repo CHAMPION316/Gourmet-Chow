@@ -46,5 +46,16 @@ html, body {
 .landing-text {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
+    /* vertical-align: middle; */
+    padding-top: 80px;
+}
+
+.landing-text h1 {
+    color: #fff;
+    font-weight: bold;
+}
+
+.landing-text h3 {
+    color: #fff;
+    font-weight: 300;
 }
