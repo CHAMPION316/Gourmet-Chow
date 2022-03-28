@@ -51,3 +51,13 @@ At this point in time I only have the index.html page running but will implement
 - **Menu Page**: allows the user to view the food menu.
 - **Reservation Page**: allows the user to place a reservation with a date and time.
 - **About Us Page**: allows the user to learn more about the restaurant and it's history.
+
+[**The Header**](wireframes/navbar.png) : Contains an image of the inside of a restaurant that I got form [pexels](https://www.pexels.com/photo/wine-glasses-on-table-tops-941861/) which is a website that allows users to use images for free. 
+
+[**Section**](wireframes/navbar.png) : Contains a colored background with an image of a dish that the restaurant serves with a brief description about the restaurant. 
+
+[**The Footer**](wireframes/navbar.png) : includes:
+
+- **Address details**: includes a contact email to contact the owner.
+- **Phone Number**: newsletter so clients can stay up to date with new material and more.
+- **Social Media Links**: Links to the restaurants social media pages. 
