@@ -32,3 +32,14 @@ This website was designed so that a user can book an appointment at the restaura
 - As a user, I expect to book a table with a number of guests. 
 - As a user, I expect to cancel my booking if plans change before hand. 
 - As a user, I expect to be able to download the menu as a pdf if possible. 
+- As a user, I expect to combine multiple tables if we have more than the guest limit for bookings. 
+
+##  2 Features 
+
+### 2.1 Existing Features
+
+All of my pages consist of the same navigation menu bar or hamburger icon for mobile devices. This format allows the user to understand where everything is located at all times for simplicity. The main page has a footer at the bottom with the address, phone number, and social media links. (I am currently working on whether the footer will be implemented on all pages except the menu page.) My color palette was created using [https://coolors.co/](https://coolors.co/). I decided to use 3 colors listed below in RGB format. 
+
+
+
+At this point in time I only have the index.html page running but will implement the rest as I just worked on the wireframes for the rest of them. 
