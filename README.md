@@ -19,9 +19,16 @@ Chow Chow is a fictional restaurant located in NYC that serves gourmet food for 
 
 ### 1.1 Project Goals 
 
-This website was designed so that a user can book an appointment at the restaurant on a specific date and time with ease of use. Easy to navigate across all devices and good readability. 
+To create a website that is designed so that a user can book an appointment at the restaurant on a specific date and time with ease of use. While preventing double bookings acorss those dates and times. I want it to be easy to navigate across all devices with good readability. 
 
-### 1.2 User Stories 
+### 1.2 UX
+
+I decicded to go with the main color of pink since it's a happy color but also a romantic color. I want this restaurant to be connected with "dating" which is the vibe I'm going for. The 3 main colors I chose were created using the website [coolors](https://coolors.co/)
+
+Here is the color palette I have come up with:
+- [Chow-color-palette](readme-files/chow-color-palette.png) 
+
+### 1.3 User Stories 
 
 - As a user, I expect to navigate the website with ease of use.
 - As a user, I expect to find the food menu as fast as possible.
@@ -32,7 +39,7 @@ This website was designed so that a user can book an appointment at the restaura
 - As a user, I expect to be able to download the menu as a pdf if possible. 
 - As a user, I expect to combine multiple tables if we have more than the guest limit for bookings. 
 
-### 1.3 Wireframes
+### 1.4 Wireframes
 
 I used [Balsamiq](https://balsamiq.com/) to create all my wireframes:
 
