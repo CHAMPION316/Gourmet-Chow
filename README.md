@@ -32,6 +32,19 @@ This website was designed so that a user can book an appointment at the restaura
 - As a user, I expect to be able to download the menu as a pdf if possible. 
 - As a user, I expect to combine multiple tables if we have more than the guest limit for bookings. 
 
+### 1.3 Wireframes
+
+I used [Balsamiq](https://balsamiq.com/) to create all my wireframes:
+
+|    Desktop   |    Tablet    |    Mobile    |
+|    :----:    |     :----:   |    :----:    |
+|[Home Page]|[Home Page](wireframes/tablet-main-page.png)|[Home Page](wireframes/phone-main-page.png)|
+|[Navbar]|[Navbar](wireframes/tablet-navbar.png)|[Navbar](wireframes/phone-navbar.png)|
+|[Reservation Page]|[Reservation Page](wireframes/tablet-reservation-page.png)|[Reservation Page](wireframes/phone-reservation-page.png)|
+|[Menu Page]|[Menu Page](wireframes/tablet-menu.png)|[Menu Page Starters](wireframes/phone-menu-starters.png)|
+|**|**|[Menu Page Main Course](wireframes/phone-menu-maincourse.png)|
+|**|**|[Menu Page Slides](wireframes/phone-menu-slides.png)|
+
 ----
 
 ##  2 Features 
@@ -48,7 +61,7 @@ At this point in time I only have the index.html page running but will implement
 [**The Navbar**](wireframes/navbar.png) includes:
 
 - [**Home Page**](wireframes/phone-main-page.png): allows the user to navigate to the main page.
-- **Menu Page**: allows the user to view the food menu.
+- [**Menu Page**](wireframes/) allows the user to view the food menu.
 - **Reservation Page**: allows the user to place a reservation with a date and time.
 - **About Us Page**: allows the user to learn more about the restaurant and it's history.
 
