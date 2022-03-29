@@ -86,3 +86,10 @@ At this point in time I only have the index.html page running but will implement
 - [Am I Responsive?](http://ami.responsivedesign.is/) - used to present the site on different devices.
 - [HTML Validator](https://validator.w3.org/) - used to find errors that don't belong in my HTML code.
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) - used to find errors that don't belong in my CSS code.
+
+## 4. Testing
+
+- The testing process was done on a separate file [TESTING.md](TESTING.md)
+- As it stands now this is the testing results for the **index.html** page and the **style.css** stylesheet
+
+----
