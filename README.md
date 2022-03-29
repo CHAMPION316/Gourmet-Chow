@@ -47,7 +47,7 @@ At this point in time I only have the index.html page running but will implement
 
 [**The Navbar**](wireframes/navbar.png) includes:
 
-- **Home Page**: allows the user to navigate to the main page.
+- [**Home Page**](wireframes/phone-main-page.png): allows the user to navigate to the main page.
 - **Menu Page**: allows the user to view the food menu.
 - **Reservation Page**: allows the user to place a reservation with a date and time.
 - **About Us Page**: allows the user to learn more about the restaurant and it's history.
