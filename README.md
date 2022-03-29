@@ -44,6 +44,7 @@ I used [Balsamiq](https://balsamiq.com/) to create all my wireframes:
 |[Menu Page]|[Menu Page](wireframes/tablet-menu.png)|[Menu Page Starters](wireframes/phone-menu-starters.png)|
 |**|**|[Menu Page Main Course](wireframes/phone-menu-maincourse.png)|
 |**|**|[Menu Page Slides](wireframes/phone-menu-slides.png)|
+|[About Page]|[About Page](wireframes/tablet-about.png)|[About Page](wireframes/phone-about-page.png)|
 
 ----
 
