@@ -37,7 +37,10 @@ Here is the color palette I have come up with:
 - As a user, I expect to book a table with a number of guests. 
 - As a user, I expect to cancel my booking if plans change before hand. 
 - As a user, I expect to be able to download the menu as a pdf if possible. 
-- As a user, I expect to combine multiple tables if we have more than the guest limit for bookings. 
+- As a user, I expect to combine multiple tables if we have more than the guest limit for bookings.
+- As a creator, I expect the user to find what they need on the main page.
+- As a creator, I expect the user to find the address of the restaurant within the first 45 seconds.
+- As a creator, I expect the user to enjoy a simplistic menu that isn't all over the place. 
 
 ### 1.4 Wireframes
 
@@ -108,6 +111,7 @@ At this point in time I only have the index.html page running but will implement
 - [Am I Responsive?](http://ami.responsivedesign.is/) - used to present the site on different devices.
 - [HTML Validator](https://validator.w3.org/) - used to find errors that don't belong in my HTML code.
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) - used to find errors that don't belong in my CSS code.
+- [OneNote](https://www.onenote.com/download) - Used for rough draft ideas and note taking.
 
 ## 4. Testing
 
