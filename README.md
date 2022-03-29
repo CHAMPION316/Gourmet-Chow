@@ -1,4 +1,5 @@
 # [Chow Chow](https://champion316.github.io/Gourmet-Chow/) 🍜 a gourmet restaurant
+<img src="readme-files/responsive-chow-image.jpg">
 
 A gourmet restaurant with an extravagant menu located in lower manhattan. 
 
@@ -34,6 +35,8 @@ This website was designed so that a user can book an appointment at the restaura
 - As a user, I expect to be able to download the menu as a pdf if possible. 
 - As a user, I expect to combine multiple tables if we have more than the guest limit for bookings. 
 
+---
+
 ##  2 Features 
 
 ### 2.1 Existing Features
@@ -61,3 +64,10 @@ At this point in time I only have the index.html page running but will implement
 - **Address details**: includes a contact email to contact the owner.
 - **Phone Number**: newsletter so clients can stay up to date with new material and more.
 - **Social Media Links**: Links to the restaurants social media pages. 
+
+### 2.2. Features left to implement in the future
+
+- Add sections that will separate the videos as the libray grows by dates and categories.
+- Be able to submit the form and receive a confirmation when signing up for the newsletter.
+- Add a featured page for testimonials on clients that have experienced positive changes.
+- Add a section with testimonials and customer reviews.
