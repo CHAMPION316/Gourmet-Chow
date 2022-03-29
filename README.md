@@ -6,7 +6,6 @@ A gourmet restaurant with an extravagant menu located in lower manhattan.
 ## Table of contents
 
 - [Description](#1-description)
-- [UX](#2-gameplay)
 - [Technologies used](#3-technologies-used)
 - [Testing](#4-testing)
 - [Improvements](#5-improvements)
@@ -17,8 +16,6 @@ A gourmet restaurant with an extravagant menu located in lower manhattan.
 ## 1 Description 
 
 Chow Chow is a fictional restaurant located in NYC that serves gourmet food for expensive prices. It specializes in steak. The name comes from the cute dog breed "Chow Chow" which is where the play on words comes from. 
-
-## UX
 
 ### 1.1 Project Goals 
 
@@ -35,7 +32,7 @@ This website was designed so that a user can book an appointment at the restaura
 - As a user, I expect to be able to download the menu as a pdf if possible. 
 - As a user, I expect to combine multiple tables if we have more than the guest limit for bookings. 
 
----
+----
 
 ##  2 Features 
 
@@ -71,3 +68,21 @@ At this point in time I only have the index.html page running but will implement
 - Create a downloadable pdf version of the food menu by adding a clikable link to the page.
 - Add a google maps image of the address when on the **About Us** page or have google maps open when clicking on the address on the footer.
 - Have a notification window pop up when clicking on the phone number on the footer that allows one to make the call directly without having to type the numbers manually.
+
+----
+
+## 3 Technologies used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - provides the content and structure for the website.
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - styling for my website.
+- [Balsamiq](https://balsamiq.com/) - used to create the project's wireframes.
+- [Gitpod](https://gitpod.io/) - used to develop the website in the beginning. 
+- [Visual Studio Code](https://code.visualstudio.com/download) - used to develop the website outside of Gitpod.
+- [GitHub](https://github.com/) - used to host the project.
+- [Google Fonts](https://fonts.google.com/) - used to provide my fonts (font-family: 'Mallanna', 'Rajdhani')
+- [Font Awesome](https://fontawesome.com/) - used font awesome to add an emoji to the 'sign-up form' in the footer.
+- [Pexel](https://www.pexels.com/) - used to get the hero image of the beach in the header.
+- [Coolors](https://coolors.co/) - used to create the color palette for my whole website.
+- [Am I Responsive?](http://ami.responsivedesign.is/) - used to present the site on different devices.
+- [HTML Validator](https://validator.w3.org/) - used to find errors that don't belong in my HTML code.
+- [CSS Validator](https://jigsaw.w3.org/css-validator/) - used to find errors that don't belong in my CSS code.
