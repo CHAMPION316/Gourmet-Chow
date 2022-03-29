@@ -41,6 +41,8 @@ I used [Balsamiq](https://balsamiq.com/) to create all my wireframes:
 |[Home Page]|[Home Page](wireframes/tablet-main-page.png)|[Home Page](wireframes/phone-main-page.png)|
 |[Navbar]|[Navbar](wireframes/tablet-navbar.png)|[Navbar](wireframes/phone-navbar.png)|
 |[Reservation Page]|[Reservation Page](wireframes/tablet-reservation-page.png)|[Reservation Page](wireframes/phone-reservation-page.png)|
+|[Reservation Guests]|[Reservation Guests](wireframes/tablet-reservation-guests.png)|[Reservation Guests](wireframes/phone-reservation-guests.png)|
+|[Reservation Date]|[Reservation Date](wireframes/tablet-reservation-date.png)|[Reservation Date](wireframes/phone-reservation-date.png)|
 |[Menu Page]|[Menu Page](wireframes/tablet-menu.png)|[Menu Page Starters](wireframes/phone-menu-starters.png)|
 |**|**|[Menu Page Main Course](wireframes/phone-menu-maincourse.png)|
 |**|**|[Menu Page Slides](wireframes/phone-menu-slides.png)|
@@ -59,18 +61,17 @@ The color palette was done using [coolors](https://coolors.co/) as seen by the i
 
 At this point in time I only have the index.html page running but will implement the rest as I just worked on the wireframes for the rest of the site. 
 
-[**The Navbar**](wireframes/navbar.png) includes:
+[**The Navbar**](wireframes/phone-navbar.png) includes links to **Home Page** - **Menu Page** - **Reservation Page** - **About Page** 
+- [**Home Page**](wireframes/phone-main-page.png) allows the user to navigate to the main page.
+- [**Menu Page**](wireframes/phone-menu-maincourse.png) allows the user to view the food menu.
+- [**Reservation Page**](wireframes/phone-reservation-page.png) allows the user to place a reservation with a date and time.
+- [**About Page**](wireframes/phone-about-page.png) allows the user to learn more about the restaurant and it's history.
 
-- [**Home Page**](wireframes/phone-main-page.png): allows the user to navigate to the main page.
-- [**Menu Page**](wireframes/) allows the user to view the food menu.
-- **Reservation Page**: allows the user to place a reservation with a date and time.
-- **About Us Page**: allows the user to learn more about the restaurant and it's history.
+[**The Header**](wireframes/phone-main-page.png) : Contains an image of the inside of a restaurant that I got form [pexels](https://www.pexels.com/photo/wine-glasses-on-table-tops-941861/) which is a website that allows users to use images for free. 
 
-[**The Header**](wireframes/navbar.png) : Contains an image of the inside of a restaurant that I got form [pexels](https://www.pexels.com/photo/wine-glasses-on-table-tops-941861/) which is a website that allows users to use images for free. 
+[**Section**](wireframes/phone-main-page.png) : Contains a colored background with an image of a dish that the restaurant serves with a brief description about the restaurant. 
 
-[**Section**](wireframes/navbar.png) : Contains a colored background with an image of a dish that the restaurant serves with a brief description about the restaurant. 
-
-[**The Footer**](wireframes/navbar.png) : includes:
+[**The Footer**](wireframes/phone-main-page.png) : includes:
 
 - **Address details**: includes a contact email to contact the owner.
 - **Phone Number**: newsletter so clients can stay up to date with new material and more.
@@ -107,3 +108,9 @@ At this point in time I only have the index.html page running but will implement
 - As it stands now this is the testing results for the **index.html** page and the **style.css** stylesheet
 
 ----
+
+## 5. Improvements
+
+- Allow the logo image on the main page to shrink and increase in size when the window is altered instead of having a set size for devices.
+- Play a sound when you have submitted your reservation on the website.
+- Get an email after submitting the reservation that reminds you of the date and time of your reservation.
