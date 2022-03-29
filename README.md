@@ -177,7 +177,7 @@ To log into the Heroku toolbelt CLI:
 
 You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
-### 6.2 Deplay to heroku 👨‍💻
+### 6.2 Deploy to heroku 👨‍💻
 
 #### Install Heroku within Gitpod:
 - `npm install -g Heroku`
