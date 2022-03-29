@@ -67,7 +67,7 @@ At this point in time I only have the index.html page running but will implement
 
 ### 2.2. Features left to implement in the future
 
-- Add sections that will separate the videos as the libray grows by dates and categories.
-- Be able to submit the form and receive a confirmation when signing up for the newsletter.
-- Add a featured page for testimonials on clients that have experienced positive changes.
-- Add a section with testimonials and customer reviews.
+- Create the backend for the website that allows functionality between colliding dates and times.
+- Create a downloadable pdf version of the food menu by adding a clikable link to the page.
+- Add a google maps image of the address when on the **About Us** page or have google maps open when clicking on the address on the footer.
+- Have a notification window pop up when clicking on the phone number on the footer that allows one to make the call directly without having to type the numbers manually.
