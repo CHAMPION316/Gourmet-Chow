@@ -28,6 +28,9 @@ I decicded to go with the main color of pink since it's a happy color but also a
 Here is the color palette I have come up with:
 - [Chow-color-palette](readme-files/chow-color-palette.png) 
 
+The logo was designed by me using photoshop but first created rough draft ideas in OneNote. Here are images showcasing that. 
+- [Sketch logo ideas](readme-files/chow-roughdraft-logos.jpg)
+
 ### 1.3 User Stories 
 
 - As a user, I expect to navigate the website with ease of use.
