@@ -114,3 +114,32 @@ At this point in time I only have the index.html page running but will implement
 - Allow the logo image on the main page to shrink and increase in size when the window is altered instead of having a set size for devices.
 - Play a sound when you have submitted your reservation on the website.
 - Get an email after submitting the reservation that reminds you of the date and time of your reservation.
+
+---
+
+## 6 Deployment
+
+**How to deploy the project**
+
+This project is hosted in GitHub Pages
+
+1. On the menu on the top of the project’s repository on GitHub select **Settings**.
+2. Scroll down to the GitHub **Pages** section.
+3. Inside that section, click on the drop-down menu under **Source** and select **Main Branch**.
+4. The page refreshes automatically and the website is now deployed.
+5. The link to the webpage is just in the GitHub **Pages** section down below.
+
+Only one branch has been used for this project.
+
+**To run the project locally**
+
+To clone this project from GitHub:
+
+1. Under the repository’s name, click **Clone or download**.
+2. In the **Clone with hTTPS** section, copy the given URL.
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
+<!-- Find deployment for Heroku -->
